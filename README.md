@@ -38,34 +38,36 @@
 ---
 
 <!-- About Me Section -->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
 const clarence = {
-    location: "Quezon City, Philippines 🇵🇭",
-    role: "Full-Stack Developer",
-    education: "Computer Science",
-    currentFocus: "Backend Development & System Design",
-    
-    skills: {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-        backend: ["Node.js", "Express", "REST APIs"],
-        database: ["PostgreSQL", "MySQL", "Firebase"],
-        mobile: ["React Native"],
-        tools: ["Git", "Figma", "Postman", "Webpack"]
-    },
-    
-    currentlyLearning: ["System Design", "Cloud Architecture"],
-    lookingFor: "Full-time Software Developer Position",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+  location: "Quezon City, Philippines 🇵🇭",
+  role: "Full-Stack Developer",
+  education: "Computer Science",
+  currentFocus: "Backend Development & System Design",
+
+  skills: {
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+    backend: ["Node.js", "Express", "REST APIs"],
+    database: ["PostgreSQL", "MySQL", "Firebase"],
+    mobile: ["React Native"],
+    tools: ["Git", "Figma", "Postman", "Webpack"],
+  },
+
+  currentlyLearning: ["System Design", "Cloud Architecture"],
+  lookingFor: "Full-time Software Developer Position",
+  funFact: "I debug with console.log and I'm not ashamed! 😄",
 };
 ```
 
 <br clear="right"/>
 
 ### 🎯 Career Objectives
+
 - 🔭 Building **scalable, efficient backend systems**
 - 🌱 Currently mastering **System Design & Cloud Technologies**
 - 💼 **Open to full-time opportunities** in software development
@@ -75,26 +77,31 @@ const clarence = {
 ---
 
 <!-- Tech Stack Section -->
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
 
 <div align="center">
 
 ### 💻 Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
 </p>
 
 ### ⚙️ Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,firebase,mongodb" />
 </p>
 
 ### 📱 Mobile Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,androidstudio" />
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,babel,npm" />
 </p>
@@ -104,10 +111,11 @@ const clarence = {
 ---
 
 <!-- GitHub Activity Graph -->
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarence140&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarence140&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -130,30 +138,35 @@ const clarence = {
 ---
 
 <!-- Trophies Section -->
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clarence140&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=clarence140&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 <!-- Featured Projects Section -->
-## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/clarence140?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarence140&repo=clarence140&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pinned Repo"/>
-  </a>
-</div>
+## 🚀 Featured Projects
 
 <div align="center">
   <i>⭐ Check out my <a href="https://github.com/clarence140?tab=repositories">repositories</a> for more projects!</i>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/clarence140?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github" alt="View Repos"/>
+  </a>
+</div>
+
 ---
 
 <!-- Why Hire Me Section -->
+
 ## 💼 Why Hire Me?
 
 <div align="center">
@@ -184,6 +197,7 @@ const clarence = {
 </div>
 
 ### 📋 What I Bring to the Table:
+
 - ✅ **3+ years** of hands-on development experience
 - ✅ Strong foundation in **full-stack development**
 - ✅ Experience with **modern frameworks** (React, Next.js, Node.js)
@@ -195,6 +209,7 @@ const clarence = {
 ---
 
 <!-- Connect Section -->
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -216,17 +231,6 @@ const clarence = {
 
 <div align="center">
   <img src="https://img.shields.io/badge/📧_Email_Me_For_Opportunities!-clarencesumagang0509@gmail.com-blue?style=for-the-badge" alt="Contact"/>
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </div>
 
 ---
