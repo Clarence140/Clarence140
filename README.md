@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Passionate+Full-Stack+Developer;%F0%9F%9A%80+Turning+Ideas+into+Reality;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,82 +19,35 @@
   <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge" alt="Hire Me"/>
 </div>
 
-<br/>
-
-<!-- Quick Info Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarence140&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 <!-- About Me Section -->
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 <table>
   <tr>
-    <td>📍 Location</td>
-    <td>Quezon City, Philippines 🇵🇭</td>
-  </tr>
-  <tr>
-    <td>💼 Role</td>
-    <td>Full-Stack Developer</td>
-  </tr>
-  <tr>
-    <td>🎓 Education</td>
-    <td>Computer Science</td>
-  </tr>
-  <tr>
-    <td>🎯 Current Focus</td>
-    <td>Backend Development & System Design</td>
-  </tr>
-  <tr>
-    <td>💻 Frontend</td>
-    <td>React, Next.js, TypeScript, Tailwind</td>
-  </tr>
-  <tr>
-    <td>⚙️ Backend</td>
-    <td>Node.js, Express, REST APIs</td>
-  </tr>
-  <tr>
-    <td>🗄️ Database</td>
-    <td>PostgreSQL, MySQL, Firebase</td>
-  </tr>
-  <tr>
-    <td>📱 Mobile</td>
-    <td>React Native</td>
-  </tr>
-  <tr>
-    <td>🛠️ Tools</td>
-    <td>Git, Figma, Postman, Webpack</td>
-  </tr>
-  <tr>
-    <td>📚 Learning</td>
-    <td>System Design, Cloud Architecture</td>
-  </tr>
-  <tr>
-    <td>🔍 Looking For</td>
-    <td>Full-time Software Developer Position</td>
-  </tr>
-  <tr>
-    <td>😄 Fun Fact</td>
-    <td>I debug with console.log and I'm not ashamed!</td>
+    <td width="50%">
+
+📍 **Location:** Quezon City, Philippines 🇵🇭  
+💼 **Role:** Full-Stack Developer  
+🎓 **Education:** Computer Science  
+🎯 **Current Focus:** Backend Development & System Design  
+💻 **Frontend:** React, Next.js, TypeScript, Tailwind  
+⚙️ **Backend:** Node.js, Express, REST APIs  
+🗄️ **Database:** PostgreSQL, MySQL, Firebase  
+📱 **Mobile:** React Native  
+🛠️ **Tools:** Git, Figma, Postman, Webpack  
+📚 **Learning:** System Design, Cloud Architecture  
+🔍 **Looking For:** Full-time Software Developer Position  
+😄 **Fun Fact:** I debug with console.log and I'm not ashamed!
+
+</td>
+    <td width="50%" align="center">
+      <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+    </td>
   </tr>
 </table>
-
-<br clear="right"/>
 
 ### 🎯 Career Objectives
 
@@ -111,31 +64,32 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
 
 <div align="center">
-
-### 💻 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,firebase,mongodb" />
-</p>
-
-### 📱 Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,babel,npm" />
-</p>
-
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <b>💻 Frontend</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=2" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=2" />
+      </td>
+      <td align="center" width="25%">
+        <b>⚙️ Backend</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb&perline=2" />
+      </td>
+      <td align="center" width="25%">
+        <b>📱 Mobile</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=react,androidstudio&perline=2" />
+      </td>
+      <td align="center" width="25%">
+        <b>🛠️ Tools</b><br/><br/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=2" />
+        <br/><br/>
+        <img src="https://skillicons.dev/icons?i=postman,webpack,babel,npm&perline=2" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
