@@ -4,13 +4,11 @@
 
 ![Coding Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
----
 
 ## 🚀 About Me
 
 I'm a passionate software developer with a keen interest in building efficient and scalable applications. Currently focusing on expanding my expertise in backend development while maintaining strong full-stack capabilities.
 
-```javascript
 const clarence = {
   pronouns: "he" | "him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "SQL"],
@@ -81,4 +79,4 @@ https://komarev.com/ghpvc/?username=clarence140&color=blue&style=for-the-badge
 
 "First, solve the problem. Then, write the code." – John Johnson ⭐
 
-</div> ```
+</div> 
