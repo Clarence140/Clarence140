@@ -1,8 +1,3 @@
-<!-- Animated Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Clarence%20D.%20Sumagang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=52&descSize=18"/>
-</div>
-
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
