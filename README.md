@@ -25,9 +25,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<table>
-  <tr>
-    <td width="50%">
+<img align="right" alt="Coding" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 📍 **Location:** Quezon City, Philippines 🇵🇭  
 💼 **Role:** Full-Stack Developer  
@@ -35,19 +33,14 @@
 🎯 **Current Focus:** Backend Development & System Design  
 💻 **Frontend:** React, Next.js, TypeScript, Tailwind  
 ⚙️ **Backend:** Node.js, Express, REST APIs  
-🗄️ **Database:** PostgreSQL, MySQL, Firebase  
+�️ **Dattabase:** PostgreSQL, MySQL, Firebase  
 📱 **Mobile:** React Native  
-🛠️ **Tools:** Git, Figma, Postman, Webpack  
-📚 **Learning:** System Design, Cloud Architecture  
-🔍 **Looking For:** Full-time Software Developer Position  
-😄 **Fun Fact:** I debug with console.log and I'm not ashamed!
+�️ **Tools:** Git, Figma, Postman, Webpack  
+� **\*Learning:** System Design, Cloud Architecture  
+� **\*Looking For:** Full-time Software Developer Position  
+� **\*Fun Fact:** I debug with console.log and I'm not ashamed!
 
-</td>
-    <td width="50%" align="center">
-      <img alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-    </td>
-  </tr>
-</table>
+<br clear="both"/>
 
 ### 🎯 Career Objectives
 
@@ -63,34 +56,32 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <b>💻 Frontend</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=2" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=2" />
-      </td>
-      <td align="center" width="25%">
-        <b>⚙️ Backend</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb&perline=2" />
-      </td>
-      <td align="center" width="25%">
-        <b>📱 Mobile</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=react,androidstudio&perline=2" />
-      </td>
-      <td align="center" width="25%">
-        <b>🛠️ Tools</b><br/><br/>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=2" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=postman,webpack,babel,npm&perline=2" />
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <b>💻 Frontend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=2" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=2" />
+    </td>
+    <td align="center" width="25%">
+      <b>⚙️ Backend</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=2" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,firebase,mongodb&perline=2" />
+    </td>
+    <td align="center" width="25%">
+      <b>📱 Mobile</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,androidstudio&perline=2" />
+    </td>
+    <td align="center" width="25%">
+      <b>🛠️ Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=2" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman,webpack,babel,npm&perline=2" />
+    </td>
+  </tr>
+</table>
 
 ---
 
