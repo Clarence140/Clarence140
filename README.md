@@ -1,136 +1,243 @@
-<h1 align="center">Hi 👋, I'm Clarence D. Sumagang</h1>
-<h3 align="center">A passionate Software Developer from Quezon City, Philippines</h3>
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Clarence%20D.%20Sumagang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=52&descSize=18"/>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%92%BB+Passionate+Full-Stack+Developer;%F0%9F%9A%80+Turning+Ideas+into+Reality;%F0%9F%8C%9F+Open+to+New+Opportunities!" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- Profile Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=clarence140&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/clarence140?tab=followers">
+    <img src="https://img.shields.io/github/followers/clarence140?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  </a>
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge" alt="Hire Me"/>
+</div>
+
+<br/>
+
+<!-- Quick Info Cards -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarence140&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakLabel=6AD3F7" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- About Me Section -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```javascript
+const clarence = {
+    location: "Quezon City, Philippines 🇵🇭",
+    role: "Full-Stack Developer",
+    education: "Computer Science",
+    currentFocus: "Backend Development & System Design",
+    
+    skills: {
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
+        backend: ["Node.js", "Express", "REST APIs"],
+        database: ["PostgreSQL", "MySQL", "Firebase"],
+        mobile: ["React Native"],
+        tools: ["Git", "Figma", "Postman", "Webpack"]
+    },
+    
+    currentlyLearning: ["System Design", "Cloud Architecture"],
+    lookingFor: "Full-time Software Developer Position",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+<br clear="right"/>
+
+### 🎯 Career Objectives
+- 🔭 Building **scalable, efficient backend systems**
+- 🌱 Currently mastering **System Design & Cloud Technologies**
+- 💼 **Open to full-time opportunities** in software development
+- 🤝 Looking to collaborate on **innovative web/mobile projects**
+- 📫 Reach me at: **clarencesumagang0509@gmail.com**
+
+---
+
+<!-- Tech Stack Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack & Tools
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=clarence140&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/clarence140?label=Follow&style=social)](https://github.com/clarence140)
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- Stats Card - Customize cache_seconds for faster updates -->
-![Clarence's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&cache_seconds=86400)
-
-<!-- Streak Stats - Using the fixed URL -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=clarence140&theme=dark&hide_border=true&background=0d1117&card_width=500)
-
-<!-- Top Languages - Compact layout -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8&cache_seconds=86400)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🌱 I'm currently learning **Backend Development**
-- 🔭 Working on improving my full-stack development skills
-- 📫 How to reach me: **clarencesumagang0509@gmail.com**
-- 🎯 Goal: To build scalable, efficient backend systems
-
-<div align="center" style="margin: 20px 0;">
-
-![Coding GIF](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Styling & UI Frameworks
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
-
-### Additional Icons (For reference)
-<!-- These are your original icon format tools - kept as backup -->
-<p align="left">
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
 </p>
 
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,firebase,mongodb" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,babel,npm" />
+</p>
+
+</div>
+
 ---
 
+<!-- GitHub Activity Graph -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarence140&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarence140&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
+        <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarence140&theme=tokyonight" alt="Repos per Language"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- Trophies Section -->
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=clarence140&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=clarence140&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 📫 Connect With Me
+<!-- Featured Projects Section -->
+## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/clarence140?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=clarence140&repo=clarence140&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Pinned Repo"/>
+  </a>
+</div>
 
-<a href="mailto:clarencesumagang0509@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<!-- Add your LinkedIn when you have it -->
-<a href="https://linkedin.com/in/your-profile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/clarence140" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
+<div align="center">
+  <i>⭐ Check out my <a href="https://github.com/clarence140?tab=repositories">repositories</a> for more projects!</i>
 </div>
 
 ---
 
-<div align="center">
-  
-⭐ **Star my repositories if you find them useful!** ⭐
+<!-- Why Hire Me Section -->
+## 💼 Why Hire Me?
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/48/000000/code.png" width="40"/>
+        <br/><b>Clean Code</b>
+        <br/><sub>Writing maintainable, scalable code</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/48/000000/teamwork.png" width="40"/>
+        <br/><b>Team Player</b>
+        <br/><sub>Collaborative & communicative</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/48/000000/learning.png" width="40"/>
+        <br/><b>Fast Learner</b>
+        <br/><sub>Adapts to new technologies quickly</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/48/000000/goal.png" width="40"/>
+        <br/><b>Goal-Oriented</b>
+        <br/><sub>Focused on delivering results</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📋 What I Bring to the Table:
+- ✅ **3+ years** of hands-on development experience
+- ✅ Strong foundation in **full-stack development**
+- ✅ Experience with **modern frameworks** (React, Next.js, Node.js)
+- ✅ Proficient in **database design** and optimization
+- ✅ Understanding of **Agile/Scrum** methodologies
+- ✅ Excellent **problem-solving** and debugging skills
+- ✅ Passion for **continuous learning** and improvement
+
+---
+
+<!-- Connect Section -->
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="mailto:clarencesumagang0509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/clarence-sumagang" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/clarence140" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://clarence140.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📧_Email_Me_For_Opportunities!-clarencesumagang0509@gmail.com-blue?style=for-the-badge" alt="Contact"/>
+</div>
+
+---
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <b>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!-yellow?style=for-the-badge" alt="Thanks"/>
 </div>
