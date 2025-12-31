@@ -137,16 +137,6 @@ const clarence = {
 
 ---
 
-<!-- Trophies Section -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=clarence140&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-?" alt="GitHub Trophies"/>
-</div>
-
----
-
 <!-- Featured Projects Section -->
 
 ## 🚀 Featured Projects
@@ -195,16 +185,6 @@ const clarence = {
     </tr>
   </table>
 </div>
-
-### 📋 What I Bring to the Table:
-
-- ✅ **3+ years** of hands-on development experience
-- ✅ Strong foundation in **full-stack development**
-- ✅ Experience with **modern frameworks** (React, Next.js, Node.js)
-- ✅ Proficient in **database design** and optimization
-- ✅ Understanding of **Agile/Scrum** methodologies
-- ✅ Excellent **problem-solving** and debugging skills
-- ✅ Passion for **continuous learning** and improvement
 
 ---
 
