@@ -43,26 +43,56 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const clarence = {
-  location: "Quezon City, Philippines 🇵🇭",
-  role: "Full-Stack Developer",
-  education: "Computer Science",
-  currentFocus: "Backend Development & System Design",
-
-  skills: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Express", "REST APIs"],
-    database: ["PostgreSQL", "MySQL", "Firebase"],
-    mobile: ["React Native"],
-    tools: ["Git", "Figma", "Postman", "Webpack"],
-  },
-
-  currentlyLearning: ["System Design", "Cloud Architecture"],
-  lookingFor: "Full-time Software Developer Position",
-  funFact: "I debug with console.log and I'm not ashamed! 😄",
-};
-```
+<table>
+  <tr>
+    <td>📍 Location</td>
+    <td>Quezon City, Philippines 🇵🇭</td>
+  </tr>
+  <tr>
+    <td>💼 Role</td>
+    <td>Full-Stack Developer</td>
+  </tr>
+  <tr>
+    <td>🎓 Education</td>
+    <td>Computer Science</td>
+  </tr>
+  <tr>
+    <td>🎯 Current Focus</td>
+    <td>Backend Development & System Design</td>
+  </tr>
+  <tr>
+    <td>💻 Frontend</td>
+    <td>React, Next.js, TypeScript, Tailwind</td>
+  </tr>
+  <tr>
+    <td>⚙️ Backend</td>
+    <td>Node.js, Express, REST APIs</td>
+  </tr>
+  <tr>
+    <td>🗄️ Database</td>
+    <td>PostgreSQL, MySQL, Firebase</td>
+  </tr>
+  <tr>
+    <td>📱 Mobile</td>
+    <td>React Native</td>
+  </tr>
+  <tr>
+    <td>🛠️ Tools</td>
+    <td>Git, Figma, Postman, Webpack</td>
+  </tr>
+  <tr>
+    <td>📚 Learning</td>
+    <td>System Design, Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td>🔍 Looking For</td>
+    <td>Full-time Software Developer Position</td>
+  </tr>
+  <tr>
+    <td>😄 Fun Fact</td>
+    <td>I debug with console.log and I'm not ashamed!</td>
+  </tr>
+</table>
 
 <br clear="right"/>
 
@@ -106,33 +136,6 @@ const clarence = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,webpack,babel,npm" />
 </p>
 
-</div>
-
----
-
-<!-- GitHub Activity Graph -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarence140&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clarence140&theme=tokyonight&utcOffset=8" alt="Productive Time"/>
-        <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=clarence140&theme=tokyonight" alt="Repos per Language"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
