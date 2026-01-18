@@ -78,7 +78,6 @@ I've replaced the text-based list with a visual icon grid. This uses a service c
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/github.png" title="GitHub" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/figma.png" title="Figma" alt="Figma" />
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png" title="Postman" alt="Postman" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code" alt="VS Code" />
 </div>
 
