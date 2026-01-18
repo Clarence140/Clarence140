@@ -68,7 +68,6 @@ I've replaced the text-based list with a visual icon grid. This uses a service c
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/express.png" title="Express.js" alt="Express.js" />
-  <img src="https://img.icons8.com/color/48/000000/mysql.png" title="MySQL" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" title="Firebase" alt="Firebase" />
 </div>
 
