@@ -28,7 +28,7 @@
 🎯 **Current Focus:** Backend Development & System Design  
 💻 **Frontend:** React, Next.js, TypeScript, Tailwind  
 ⚙️ **Backend:** Node.js, Express, REST APIs  
-🗄️ **Database:** PostgreSQL, MySQL, Firebase  
+🗄️ **Database:** PostgreSQL, Firebase  
 📱 **Mobile:** React Native  
 🛠️ **Tools:** Git, Figma, Postman, Webpack  
 📚 **Learning:** System Design, Cloud Architecture  
