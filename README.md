@@ -30,7 +30,7 @@
 ⚙️ **Backend:** Node.js, Express, REST APIs  
 🗄️ **Database:** PostgreSQL, Firebase  
 📱 **Mobile:** React Native  
-🛠️ **Tools:** Git, Figma, Postman, Webpack  
+🛠️ **Tools:** Git, Figma, Webpack  
 📚 **Learning:** System Design, Cloud Architecture  
 🔍 **Looking For:** Full-time Software Developer Position  
 😄 **Fun Fact:** I debug with console.log and I'm not ashamed!
