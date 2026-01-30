@@ -25,7 +25,7 @@
 **Location:** Quezon City, Philippines  **Role:** Full-Stack Developer  
 **Education:** Computer Science  
 **Current Focus:** Backend Development & System Design  
-💻 **Frontend:** React, Next.js, TypeScript, Tailwind  
+💻 **Frontend:** React, Next.js, TypeScript, Tailwind.
 ⚙️ **Backend:** Node.js, Express, REST APIs  
 🗄️ **Database:** PostgreSQL, Firebase  
 📱 **Mobile:** React Native  
