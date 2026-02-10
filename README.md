@@ -38,7 +38,6 @@
 
 ### 🎯 Career Objectives
 
-- 🔭 Building **scalable, efficient backend systems**
 - 🌱 Currently mastering **System Design & Cloud Technologies**
 - 💼 **Open to full-time opportunities** in software development
 - 🤝 Looking to collaborate on **innovative web/mobile projects**
