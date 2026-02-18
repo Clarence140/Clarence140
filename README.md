@@ -37,8 +37,6 @@
 <br clear="both"/>
 
 ### 🎯 Career Objectives
-
-- 🌱 Currently mastering **System Design & Cloud Technologies**
 - 💼 **Open to full-time opportunities** in software development
 - 🤝 Looking to collaborate on **innovative web/mobile projects**
 - 📫 Reach me at: **clarencesumagang0509@gmail.com**
