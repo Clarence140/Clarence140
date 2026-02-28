@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,reactnative,docker,git,github,figma,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,docker,git,github,figma,vscode&perline=9" />
 
 </div>
 
