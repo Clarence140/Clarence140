@@ -27,8 +27,8 @@
 **🌱 Currently:** Backend Development & System Design  
 
 - 💻 Frontend: React, Next.js, TypeScript, Tailwind  
-- ⚙️ Backend: Node.js, Express, REST APIs  
-- 🗄️ Database: PostgreSQL, Firebase  
+- ⚙️ Backend: Node.js, Express, REST APIs, MongoDB  
+- 🗄️ Database: PostgreSQL, Firebase, MongoDB  
 - 📱 Mobile: React Native  
 - 🛠️ Tools: Git, Figma  
 - 📚 Learning: System Design, Cloud Architecture  
@@ -47,19 +47,8 @@
 <!-- Tech Stack Section -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
-### Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt="Frontend Skills" />
-</div>
-
-### Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres" alt="Backend Skills" />
-</div>
-
-### Mobile & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=reactnative,git,github,figma,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,firebase,postgres,reactnative,git,github,figma,vscode" alt="Tech Stack Icons" />
 </div>
 
 ---
