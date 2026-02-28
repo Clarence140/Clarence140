@@ -34,6 +34,9 @@
 - 🔍 Looking for: Full-time Software Developer position  
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed!  
 
+🌐 **Portfolio:**  
+👉 https://code-with-clarencee.vercel.app/
+
 <br clear="both"/>
 
 ---
@@ -50,7 +53,57 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,docker,git,github,figma,vscode&perline=9" />
+<a href="https://www.w3schools.com/html/" target="_blank" title="Learn HTML for free">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" title="Learn CSS for free">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank" title="Learn JavaScript for free">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" title="Learn TypeScript">
+  <img src="https://skillicons.dev/icons?i=ts" />
+</a>
+<a href="https://react.dev/learn" target="_blank" title="Learn React">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://nextjs.org/learn" target="_blank" title="Learn Next.js">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+<a href="https://tailwindcss.com/docs" target="_blank" title="Learn Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
+<a href="https://nodejs.org/en/learn" target="_blank" title="Learn Node.js">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+<a href="https://expressjs.com/en/starter/installing.html" target="_blank" title="Learn Express.js">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
+<a href="https://www.mongodb.com/docs/" target="_blank" title="Learn MongoDB">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+<a href="https://firebase.google.com/docs" target="_blank" title="Learn Firebase">
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</a>
+<a href="https://www.postgresql.org/docs/" target="_blank" title="Learn PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</a>
+<a href="https://docs.docker.com/get-started/" target="_blank" title="Learn Docker">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+<a href="https://git-scm.com/docs" target="_blank" title="Learn Git">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://docs.github.com/en" target="_blank" title="Learn GitHub">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://help.figma.com/" target="_blank" title="Learn Figma">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://code.visualstudio.com/docs" target="_blank" title="Learn VS Code">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
 
 </div>
 
@@ -60,45 +113,6 @@
 
 <div align="center">
   ⭐ Check out my <a href="https://github.com/clarence140?tab=repositories">repositories</a> for more projects!
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/clarence140?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github" />
-  </a>
-</div>
-
----
-
-## 💼 Why Hire Me?
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/code.png" width="40"/><br/>
-        <b>Clean Code</b><br/>
-        <sub>Maintainable & scalable</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/teamwork.png" width="40"/><br/>
-        <b>Team Player</b><br/>
-        <sub>Collaborative & communicative</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/learning.png" width="40"/><br/>
-        <b>Fast Learner</b><br/>
-        <sub>Adapts quickly to new tech</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/goal.png" width="40"/><br/>
-        <b>Goal-Oriented</b><br/>
-        <sub>Focused on results</sub>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -115,7 +129,7 @@
   <a href="https://github.com/clarence140" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://clarence140.github.io" target="_blank">
+  <a href="https://code-with-clarencee.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
@@ -135,6 +149,4 @@
 
 <div align="center">
   <b>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20a%20repo%20if%20you%20find%20it%20useful!-yellow?style=for-the-badge" />
 </div>
