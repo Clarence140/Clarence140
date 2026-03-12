@@ -32,7 +32,6 @@
 - 🐳 DevOps: Docker  
 - 🛠️ Tools: Git, GitHub, Figma, VS Code  
 - 🔍 Looking for: Full-time Software Developer position  
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed!  
 
 <br clear="both"/>
 
