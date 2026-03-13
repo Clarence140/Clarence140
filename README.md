@@ -30,7 +30,7 @@
 - 🗄️ Database: PostgreSQL, Firebase, MongoDB  
 - 📱 Mobile: React Native  
 - 🐳 DevOps: Docker  
-- 🛠️ Tools: Git, GitHub, Figma, VS Code  
+- 🛠️ Tools: Git, GitHub, Figma, VS Code, Cursor
 - 🔍 Looking for: Full-time Software Developer position  
 
 <br clear="both"/>
