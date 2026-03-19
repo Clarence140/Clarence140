@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<!-- Profile Badgesss -->
+<!-- Profile Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=clarence140&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <a href="https://github.com/clarence140?tab=followers">
