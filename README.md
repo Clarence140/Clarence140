@@ -27,7 +27,7 @@
 
 - 💻 Frontend: React, Next.js, TypeScript, Tailwind  
 - ⚙️ Backend: Node.js, Express, REST APIs  
-- 🗄️ Database: PostgreSQL, Firebase, MongoDB  
+- 🗄️ Database: PostgreSQL, Firebase, MongoDb  
 - 📱 Mobile: React Native  
 - 🐳 DevOps: Docker  
 - 🛠️ Tools: Git, GitHub, Figma, VS Code, Cursor
