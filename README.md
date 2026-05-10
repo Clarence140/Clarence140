@@ -1,139 +1,158 @@
-<!-- Typing Animation -->
+<!-- Header -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Clarence+Sumagang;Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+  <p><i>Building scalable web & mobile applications from Quezon City, Philippines</i></p>
+</div>
+
+<!-- Status -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-2ea44f?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Time%20Roles-blue?style=flat-square" />
+  <a href="mailto:clarencesumagang0509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-clarencesumagang0509%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-<!-- Profile Badges -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=clarence140&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <a href="https://github.com/clarence140?tab=followers">
-    <img src="https://img.shields.io/github/followers/clarence140?label=Followers&style=for-the-badge&color=blue" />
-  </a>
-  <img src="https://img.shields.io/badge/Available%20for%20Hire-Yes-brightgreen?style=for-the-badge" />
-</div>
+---
+
+## About Me
+
+I'm a **Full-Stack Developer** with a background in **Information Technology**, specializing in building modern, responsive, and performant web and mobile applications. I care deeply about clean architecture, readable code, and delivering real value through software.
+
+- 🔭 I build production-grade apps with **React, Next.js, and Node.js**
+- 🌱 Currently deepening my expertise in **backend systems & system design**
+- 📱 Experienced with cross-platform mobile development using **React Native**
+- 🤝 I thrive in collaborative environments and enjoy code reviews, pair programming, and mentoring
+- 🎯 Actively seeking a **full-time Software Developer** role where I can contribute and grow
 
 ---
 
-## 👨‍💻 About Me
+## Technical Skills
 
-<img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
 
-📍 **Location:** Quezon City, Philippines  
-💼 **Role:** Full-Stack Developer  
-🎓 **Education:** Information Technology  
-🌱 **Currently Learning:** Backend Development & System Design  
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
 
-- 💻 Frontend: React, Next.js, TypeScript, Tailwind  
-- ⚙️ Backend: Node.js, Express, REST APIs  
-- 🗄️ Database: PostgreSQL, Firebase, MongoDb  
-- 📱 Mobile: React Native  
-- 🐳 DevOps: Docker  
-- 🛠️ Tools: Git, GitHub, Figma, VS Code, Cursor
-- 🔍 Looking for: Full-time Software Developer position  
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=7" />
 
-<br clear="both"/>
+### Mobile
+<img src="https://skillicons.dev/icons?i=react&perline=7" /> React Native
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode&perline=7" />
 
 ---
 
-## 🎯 Career Objectives
+## GitHub Analytics
 
-- 💼 Open to full-time software development opportunities  
-- 🤝 Looking to collaborate on innovative web/mobile projects  
-- 📫 Reach me at: **clarencesumagang0509@gmail.com**
+<!-- These pull your REAL data — no fake numbers -->
 
----
-
-## 🛠️ Tech Stacks
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,postgres,docker,git,github,figma,vscode&perline=9" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
+<details>
+<summary><b>📊 Click to expand stats</b></summary>
+<br/>
 
 <div align="center">
-  ⭐ Check out my <a href="https://github.com/clarence140?tab=repositories">repositories</a> for more projects!
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=compact&theme=default&hide_border=true&title_color=58A6FF&langs_count=8" />
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://github-streak-stats.herokuapp.com/?user=clarence140&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FF6B35" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=clarence140&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="800" />
+</div>
+
+</details>
+
+---
+
+## Featured Projects
+
+> Replace the placeholders below with your actual repositories. Use this format for each project you want to highlight.
+
+### 📌 Project One — *[Project Name]*
+**A brief 1-2 sentence description of what the project does, the problem it solves, or the impact it had.**
+
+| Detail | Info |
+|--------|------|
+| **Tech Stack** | `React` `Node.js` `PostgreSQL` `Docker` |
+| **Live Demo** | [View Live](#) |
+| **Source Code** | [GitHub Repo](#) |
+
+---
+
+### 📌 Project Two — *[Project Name]*
+**A brief 1-2 sentence description of what the project does, the problem it solves, or the impact it had.**
+
+| Detail | Info |
+|--------|------|
+| **Tech Stack** | `Next.js` `TypeScript` `Tailwind` `Firebase` |
+| **Live Demo** | [View Live](#) |
+| **Source Code** | [GitHub Repo](#) |
+
+---
+
+### 📌 Project Three — *[Project Name]*
+**A brief 1-2 sentence description of what the project does, the problem it solves, or the impact it had.**
+
+| Detail | Info |
+|--------|------|
+| **Tech Stack** | `React Native` `Express` `MongoDB` |
+| **Live Demo** | [View Live](#) |
+| **Source Code** | [GitHub Repo](#) |
+
+---
 
 <div align="center">
   <a href="https://github.com/clarence140?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 💼 Why Hire Me??
+## What I Bring to a Team
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/code.png" width="40"/><br/>
-        <b>Clean Code</b><br/>
-        <sub>Maintainable & scalable</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/teamwork.png" width="40"/><br/>
-        <b>Team Player</b><br/>
-        <sub>Collaborative & communicative</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/learning.png" width="40"/><br/>
-        <b>Fast Learner</b><br/>
-        <sub>Adapts quickly to new tech</sub>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/goal.png" width="40"/><br/>
-        <b>Goal-Oriented</b><br/>
-        <sub>Focused on results</sub>
-      </td>
-    </tr>
-  </table>
-</div>
+| | |
+|---|---|
+| **Clean, maintainable code** | I write code that other developers (and future me) can understand, extend, and debug without friction. |
+| **End-to-end delivery** | Comfortable owning features from database schema to API to UI — not just "frontend" or "backend." |
+| **Communication** | I believe the best technical decisions start with clear conversations, not assumptions. |
+| **Growth mindset** | I treat every code review, failed deploy, and tricky bug as a learning opportunity. |
+| **Shipping over perfection** | I prioritize delivering working software incrementally over over-engineering in silence. |
 
 ---
 
-## 🤝 Let's Connect!
+## Connect With Me
 
 <div align="center">
   <a href="mailto:clarencesumagang0509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/clarence-sumagang" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/clarence140" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://clarence140.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <b>📧 Open to opportunities — let's talk!</b>
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
-<div align="center">
-  <b>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</b>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-⭐%20Star%20a%20repo%20if%20you%20find%20it%20useful!-yellow?style=for-the-badge" />
+  <b>Interested in working together? My inbox is open.</b>
 </div>
