@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-📍 **Locatio:** Quezon City, Philippines  
+📍 **Location:** Quezon City, Philippines  
 💼 **Role:** Full-Stack Developer  
 🎓 **Education:** Information Technology  
 🌱 **Currently Learning:** Backend Development & System Design  
