@@ -47,7 +47,7 @@ Full-Stack Developer with a degree in Information Technology, specializing in bu
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=7" />
 
 ### Mobile
-<img src="https://skillicons.dev/icons?i=react" /> React Native
+<img src="https://skillicons.dev/icons?i=react" />
 
 ### DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode&perline=7" />
