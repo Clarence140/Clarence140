@@ -37,20 +37,9 @@ Full-Stack Developer with a degree in Information Technology, specializing in bu
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" />
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=7" />
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=react" />
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode&perline=7" />
+| Frontend | Backend & APIs | Database | DevOps & Tools |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,react&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" /> | <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&perline=4" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode&perline=4" /> |
 
 </div>
 
