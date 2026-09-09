@@ -48,14 +48,14 @@ Full-Stack Developer with a degree in Information Technology, specializing in bu
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&hide_border=true&count_private=true&title_color=6AD3F7&icon_color=6AD3F7&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=compact&hide_border=true&title_color=6AD3F7&bg_color=00000000&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clarence140&show_icons=true&hide_border=true&count_private=true&title_color=6AD3F7&text_color=FFFFFF&icon_color=6AD3F7&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarence140&layout=compact&hide_border=true&title_color=6AD3F7&text_color=FFFFFF&bg_color=00000000&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=clarence140&hide_border=true&background=00000000&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=6AD3F7" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=clarence140&hide_border=true&background=00000000&stroke=6AD3F7&ring=6AD3F7&fire=FF6B35&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
 </div>
 
 <br/>
