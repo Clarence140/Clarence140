@@ -24,7 +24,7 @@
 
 Full-Stack Developer with a degree in Information Technology, specializing in building scalable web and mobile applications. I write clean, maintainable code and am currently deepening my expertise in backend architecture and system design.
 
-- 📍 **Location:** Quezon City, Philippines
+- 📍 **Location:** Quezon City, Philippiness
 - 🎓 **Education:** Information Technology
 - 💼 **Role:** Full-Stack Developer
 - 🌱 **Currently Learning:** Backend Development & System Design
