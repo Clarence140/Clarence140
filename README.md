@@ -5,7 +5,7 @@
   </a>
 </div>
 
-<!-- Profile Badges -->
+<!-- Profile Badgèes -->
 <div align="center">
   <a href="mailto:clarencesumagang0509@gmail.com">
     <img src="https://img.shields.io/badge/Open_to_Work-Yes-brightgreen?style=flat-square" />
